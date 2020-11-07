@@ -33,7 +33,7 @@ jobs:
           username: SteinarKindingstad
           password: ${{ secrets.CR_PAT }}
           registry: ghcr.io
-          repository: SteinarKindingstad/notes-app/notat-api
+          repository: steinarkindingstad/notes-app/notat-api
           path: notat-api
           tag_with_sha: true
           tags: latest
